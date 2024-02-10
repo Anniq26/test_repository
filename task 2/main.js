@@ -22,5 +22,3 @@ button.innerText = 'Submit'
 
 wrapper.append(h2, button, link)
 root.appendChild(wrapper)
-
-
