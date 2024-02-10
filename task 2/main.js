@@ -19,6 +19,6 @@ const button = document.createElement('button')
 button.classList.add('btn')
 button.innerText = 'Submit'
 
-
+// append files to root
 wrapper.append(h2, button, link)
 root.appendChild(wrapper)
